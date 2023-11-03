@@ -1,4 +1,5 @@
 import '../Header.css'
+import Logo from "../../public/Images/amazon.png"
 
 
 
